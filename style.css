@@ -42,8 +42,10 @@ button {
 
 .test {
 	display: flex;
+	justify-self: center;
 }
 
 .testtwo {
 	display: grid;
+	justify-content: center;
 }
