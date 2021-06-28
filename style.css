@@ -31,4 +31,9 @@ ul {
     padding: 0;
 }
 
+button {
+    display: inline-block;
+    border: none;
+}
+
 
