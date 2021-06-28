@@ -43,9 +43,11 @@ button {
 .test {
 	display: flex;
 	justify-self: center;
+	overflow: hidden;
 }
 
 .testtwo {
 	display: grid;
 	justify-content: center;
+	overflow: hidden;
 }
