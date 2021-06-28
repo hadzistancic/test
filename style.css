@@ -65,5 +65,9 @@ button {
 }
 
 .testsix {
+	display: flexq;
+}
+
+.testbeskonanco {
 	display: flex;
 }
